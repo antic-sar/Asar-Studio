@@ -1,2 +1,3 @@
 # Asar-Studio
-Website Hosting for my site.
+I'm using GitHub to run my website for now.
+Hope you find it...
